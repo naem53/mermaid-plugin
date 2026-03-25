@@ -1,1 +1,1 @@
-mermaid plugin
+mermaid & plantuml plugin

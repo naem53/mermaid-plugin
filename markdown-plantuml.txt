@@ -1,1 +1,5 @@
-содержимое положить сюда: C:\Users\User\AppData\Local\GIGAIDE\GIGAIDE-CE-2025.1
+Для установки расшения plantuml для плагина markdown в gigaide:
+содержимое архива markdown-plantuml.zip положить сюда:
+- для windows: C:\Users\User\AppData\Local\GIGAIDE\GIGAIDE-CE-2025.1 (вместо "GIGAIDE-PRO-2025.1" можно указать свою платформу)
+- для sberos: /home/sigma.sbrf.ru@username/.cache/GIGAIDE/GIGAIDE-PRO-2025.1 (вместо "GIGAIDE-PRO-2025.1" можно указать свою платформу)
+- для macos: /home/username/Library/Caches/GIGAIDE/GIGAIDE-PRO-2025.1 (вместо "GIGAIDE-PRO-2025.1" можно указать свою платформу)
